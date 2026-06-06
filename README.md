@@ -1,6 +1,4 @@
-[Uploading README.md…]()
-# S3-Static-Website-Hosting-
-A hands-on AWS project demonstrating how to host a static website using S3 — covering bucket setup, file upload, public access configuration, and region selection.
+[README(1).md](https://github.com/user-attachments/files/28665813/README.1.md)
 <img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # Host a Website on Amazon S3
@@ -139,6 +137,8 @@ Why using Bucket Policies? bucket policies are great when it comes to specify wh
 ![Image](http://learn.nextwork.org/cheerful_beige_innocent_camel/uploads/aws-host-a-website-on-s3_sm2sm2sm)
 
 ### What my bucket policy does
+
+Specifically it explicitly denies s3:DeleteObject on index.html for everyone (*) — meaning nobody, including account users, can delete that file. It's a protection policy to prevent accidental or unauthorized deletion of the website's main file.
 
 ---
 
