@@ -51,7 +51,7 @@ For this project I chose Frankfort in Europe as it is the closest one to Egypt, 
 
 ### Understanding bucket name uniqueness
 
-![Image](../Screenshot_20260606_042203.png)
+![Image](Screenshot_20260606_042203.png)
 
 ---
 
