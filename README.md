@@ -1,5 +1,4 @@
-[README(3).md](https://github.com/user-attachments/files/28665975/README.3.md)
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+(https://github.com/user-attachments/files/28665975/README.3.md)
 
 # Host a Website on Amazon S3
 
