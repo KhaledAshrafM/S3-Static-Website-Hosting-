@@ -10,7 +10,7 @@
 
 ---
 
-![Image](http://learn.nextwork.org/cheerful_beige_innocent_camel/uploads/aws-host-a-website-on-s3_5d4474f9)
+![Image]()
 
 ---
 
@@ -51,7 +51,7 @@ For this project I chose Frankfort in Europe as it is the closest one to Egypt, 
 
 ### Understanding bucket name uniqueness
 
-![Image](http://learn.nextwork.org/cheerful_beige_innocent_camel/uploads/aws-host-a-website-on-s3_ba6d42ad)
+![Image](./Screenshot_20260606_042203.png)
 
 ---
 
