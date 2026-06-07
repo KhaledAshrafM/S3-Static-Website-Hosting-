@@ -120,7 +120,7 @@ We selected the intended objects then using the "Actions" tab we chose "Make pub
 
 To resolve this 403 Forbidden error, we have changed the permissions of our objects inside the bucket by allowing the public access to them using ACLs. 
 
-![Image](http://learn.nextwork.org/cheerful_beige_innocent_camel/uploads/aws-host-a-website-on-s3_5d4474f9)
+![Image](./Screenshot_20260606_042203.png)
 
 ---
 
